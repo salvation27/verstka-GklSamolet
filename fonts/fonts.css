@@ -1,0 +1,72 @@
+
+
+
+@font-face {
+  font-family: 'GothaProReg';                                  
+  src:url('GothaProReg_0.otf') ;     
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GothaProLigt';                                  
+  src:url('GothaProLig_0.otf') ;     
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GothaProBol';                                  
+  src:url('GothaProBol_0.otf') ;     
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GothaProMed';                                  
+  src:url('GothaProMed_0.otf') ;     
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'RobotoBold';                                  
+  src:url('roboto-condensed-bold.ttf') ;     
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'GothaProIta';                                  
+  src:url('GothaProIta_0.otf') ;     
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+/*
+
+
+#news_in .slider-nav {
+    width: 100%;
+}
+#news_in .slider-nav {
+    position: relative;
+    left: 0px;
+
+}
+#news_in .slider-nav .slick-prev {
+  margin-left: 0px;
+
+    left: 50%;
+    margin-top: 77px;
+    margin-left: -29px;
+}
+#news_in .slider-nav .slick-next {
+
+    right: 50%;
+      margin-top: 77px;
+    margin-right: -29px;
+}
+#news_in .slider-nav {
+    position: relative;
+    left: 0px;
+
+}*/
